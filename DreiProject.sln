@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DreiProject.Webapi", "DreiProject.Webapi\DreiProject.Webapi.csproj", "{22E49705-69DC-4E6E-95B3-DDF53C737013}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DreiProject.Application", "DreiProject.Application\DreiProject.Application.csproj", "{4FCEEBE0-4476-4A46-BC8C-7E3DBDE3168D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22E49705-69DC-4E6E-95B3-DDF53C737013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22E49705-69DC-4E6E-95B3-DDF53C737013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22E49705-69DC-4E6E-95B3-DDF53C737013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22E49705-69DC-4E6E-95B3-DDF53C737013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FCEEBE0-4476-4A46-BC8C-7E3DBDE3168D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FCEEBE0-4476-4A46-BC8C-7E3DBDE3168D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FCEEBE0-4476-4A46-BC8C-7E3DBDE3168D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FCEEBE0-4476-4A46-BC8C-7E3DBDE3168D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
